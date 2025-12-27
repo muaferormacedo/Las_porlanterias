@@ -1,0 +1,606 @@
+{
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-12-17 17:06:49 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-12-17 17:06:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "muskeg": "2025-12-19 16:27:59 +0000",
+      "woodland": "2025-12-17 21:40:25 +0000",
+      "shrubland": "2025-12-18 17:08:05 +0000",
+      "rocky_shrubland": "2025-12-18 22:07:20 +0000",
+      "scrubland": "2025-12-17 17:06:49 +0000",
+      "erupting_inferno": "2025-12-18 17:15:13 +0000",
+      "lush_savanna": "2025-12-17 21:54:41 +0000",
+      "highland": "2025-12-26 16:34:03 +0000",
+      "jacaranda_glade": "2025-12-21 15:48:02 +0000",
+      "jade_cliffs": "2025-12-23 22:32:30 +0000",
+      "mystic_grove": "2025-12-19 16:40:45 +0000",
+      "old_growth_woodland": "2025-12-19 15:59:21 +0000",
+      "crystalline_chasm": "2025-12-22 17:27:55 +0000",
+      "withered_abyss": "2025-12-22 17:49:30 +0000",
+      "orchard": "2025-12-18 22:07:46 +0000",
+      "overgrown_greens": "2025-12-18 17:07:18 +0000",
+      "moor": "2025-12-20 16:07:24 +0000",
+      "mediterranean_forest": "2025-12-17 17:07:41 +0000",
+      "spider_nest": "2025-12-20 17:15:03 +0000",
+      "dryland": "2025-12-17 21:53:20 +0000",
+      "wasteland": "2025-12-17 21:50:28 +0000",
+      "lush_desert": "2025-12-17 21:53:52 +0000",
+      "redwood_forest": "2025-12-18 16:55:01 +0000",
+      "visceral_heap": "2025-12-18 17:14:56 +0000",
+      "dune_beach": "2025-12-18 16:54:57 +0000",
+      "rocky_rainforest": "2025-12-17 21:52:19 +0000",
+      "pasture": "2025-12-18 16:57:09 +0000",
+      "volcanic_plains": "2025-12-22 16:57:03 +0000",
+      "lavender_field": "2025-12-19 16:49:52 +0000",
+      "grassland": "2025-12-18 17:08:36 +0000",
+      "prairie": "2025-12-18 16:55:47 +0000",
+      "tundra": "2025-12-19 16:34:48 +0000",
+      "glowing_grotto": "2025-12-22 17:15:32 +0000",
+      "undergrowth": "2025-12-18 17:22:45 +0000",
+      "rainforest": "2025-12-18 16:46:37 +0000"
+    },
+    "done": false
+  },
+  "tameablebeasts:root": {
+    "criteria": {
+      "trigger_on_join": "2025-12-17 17:06:49 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-12-17 17:06:49 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-12-17 17:06:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-12-17 17:06:49 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2025-12-17 17:06:49 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-12-17 17:06:49 +0000"
+    },
+    "done": true
+  },
+  "boh:start_boh": {
+    "criteria": {
+      "start_boh_0": "2025-12-17 17:06:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "scrubland": "2025-12-17 17:06:49 +0000"
+    },
+    "done": true
+  },
+  "faded_conquest_2:faded_2": {
+    "criteria": {
+      "faded_2_0": "2025-12-17 17:06:49 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-12-17 17:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-12-17 19:45:46 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-12-17 19:46:21 +0000"
+    },
+    "done": true
+  },
+  "tameablebeasts:purple_allay": {
+    "criteria": {
+      "obtain_purple_allay": "2025-12-17 19:49:17 +0000"
+    },
+    "done": true
+  },
+  "block_factorys_bosses:die_boss": {
+    "criteria": {
+      "die_boss_0": "2025-12-17 21:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-12-17 21:46:49 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-12-17 21:47:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-12-17 21:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2025-12-19 16:22:48 +0000",
+      "minecraft:cherry_grove": "2025-12-20 16:23:10 +0000",
+      "minecraft:sunflower_plains": "2025-12-20 16:27:09 +0000",
+      "minecraft:birch_forest": "2025-12-18 22:23:32 +0000",
+      "minecraft:wooded_badlands": "2025-12-17 21:55:52 +0000",
+      "minecraft:bamboo_jungle": "2025-12-19 16:11:49 +0000",
+      "minecraft:badlands": "2025-12-17 22:07:47 +0000",
+      "minecraft:savanna_plateau": "2025-12-23 22:33:09 +0000",
+      "minecraft:beach": "2025-12-18 16:52:45 +0000",
+      "minecraft:dark_forest": "2025-12-18 21:50:59 +0000",
+      "minecraft:stony_peaks": "2025-12-23 22:33:19 +0000",
+      "minecraft:lukewarm_ocean": "2025-12-17 22:16:05 +0000",
+      "minecraft:river": "2025-12-17 21:54:25 +0000",
+      "minecraft:stony_shore": "2025-12-17 22:17:13 +0000",
+      "minecraft:snowy_plains": "2025-12-19 16:16:40 +0000",
+      "minecraft:dripstone_caves": "2025-12-18 22:34:34 +0000",
+      "minecraft:snowy_taiga": "2025-12-19 16:27:50 +0000",
+      "minecraft:forest": "2025-12-18 22:50:13 +0000",
+      "minecraft:lush_caves": "2025-12-18 22:01:08 +0000",
+      "minecraft:frozen_ocean": "2025-12-19 16:16:02 +0000",
+      "minecraft:desert": "2025-12-17 21:55:58 +0000",
+      "minecraft:ocean": "2025-12-18 17:01:02 +0000",
+      "minecraft:jungle": "2025-12-18 22:35:55 +0000",
+      "minecraft:flower_forest": "2025-12-20 16:11:49 +0000",
+      "minecraft:old_growth_birch_forest": "2025-12-19 15:35:43 +0000",
+      "minecraft:deep_dark": "2025-12-18 22:36:21 +0000",
+      "minecraft:meadow": "2025-12-18 22:23:34 +0000",
+      "minecraft:savanna": "2025-12-17 22:11:37 +0000",
+      "minecraft:plains": "2025-12-17 22:10:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-12-17 22:03:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-12-17 22:05:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-12-17 22:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-12-17 22:12:36 +0000",
+      "minecraft:blaze": "2025-12-18 17:55:27 +0000",
+      "minecraft:skeleton": "2025-12-17 22:18:27 +0000",
+      "minecraft:ghast": "2025-12-18 17:27:28 +0000",
+      "minecraft:vindicator": "2025-12-17 22:14:23 +0000",
+      "minecraft:spider": "2025-12-18 17:11:42 +0000",
+      "minecraft:creeper": "2025-12-18 15:54:03 +0000",
+      "minecraft:phantom": "2025-12-18 16:30:42 +0000",
+      "minecraft:wither_skeleton": "2025-12-18 17:57:17 +0000",
+      "minecraft:husk": "2025-12-19 16:06:04 +0000",
+      "minecraft:cave_spider": "2025-12-22 17:16:10 +0000",
+      "quark:wraith": "2025-12-22 17:27:31 +0000",
+      "minecraft:piglin": "2025-12-18 17:19:36 +0000",
+      "minecraft:silverfish": "2025-12-18 15:51:22 +0000",
+      "minecraft:enderman": "2025-12-18 22:35:32 +0000",
+      "minecraft:stray": "2025-12-19 16:19:13 +0000",
+      "minecraft:zombie": "2025-12-17 22:10:30 +0000",
+      "quark:foxhound": "2025-12-22 17:29:32 +0000",
+      "minecraft:zombie_villager": "2025-12-19 17:12:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-12-17 22:10:30 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mansions": {
+    "criteria": {
+      "in_mansion_savanna": "2025-12-17 22:14:05 +0000"
+    },
+    "done": false
+  },
+  "champions:kill_a_champion": {
+    "criteria": {
+      "kill_a_champion": "2025-12-17 22:18:27 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-12-17 22:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-12-18 15:43:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-12-18 15:43:02 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-12-18 15:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-12-18 16:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-12-18 16:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-12-18 16:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-12-18 16:24:22 +0000",
+      "golden_apple": "2025-12-18 17:41:55 +0000",
+      "golden_carrot": "2025-12-18 23:17:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-12-18 16:53:29 +0000"
+    },
+    "done": true
+  },
+  "faded_conquest_2:pbslain": {
+    "criteria": {
+      "pbslain_0": "2025-12-18 16:59:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-12-18 17:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-12-18 17:14:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-12-18 17:14:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-12-18 17:22:49 +0000",
+      "minecraft:nether_wastes": "2025-12-18 17:14:42 +0000",
+      "minecraft:soul_sand_valley": "2025-12-22 17:26:55 +0000",
+      "minecraft:warped_forest": "2025-12-18 17:14:25 +0000",
+      "minecraft:basalt_deltas": "2025-12-22 17:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-12-18 17:20:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-12-18 17:24:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-12-18 17:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-12-18 17:26:39 +0000"
+    },
+    "done": true
+  },
+  "block_factorys_bosses:kill_underworld_knight": {
+    "criteria": {
+      "kill": "2025-12-18 17:34:33 +0000"
+    },
+    "done": true
+  },
+  "block_factorys_bosses:kill_all_bosses": {
+    "criteria": {
+      "kill_knight": "2025-12-18 17:34:33 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-12-18 17:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-12-18 21:35:53 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2025-12-18 21:39:49 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_nether_bricks": "2025-12-18 21:42:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-12-18 21:44:34 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-12-18 21:47:22 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2025-12-18 21:47:22 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-12-18 21:48:22 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-12-18 21:50:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-12-18 21:51:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-12-18 22:01:07 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-12-18 22:19:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-12-19 15:56:46 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-12-19 16:24:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-12-19 16:24:37 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_cherry": "2025-12-19 16:49:52 +0000"
+    },
+    "done": false
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-12-20 16:58:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-12-20 17:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-12-20 17:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-12-20 17:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-12-20 17:59:50 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "yellow": "2025-12-21 15:34:42 +0000"
+    },
+    "done": false
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-12-22 16:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-12-22 16:52:02 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-12-22 17:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-12-22 17:19:32 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_dark_forest": "2025-12-26 16:34:28 +0000",
+      "in_mineshaft_nether": "2025-12-22 17:26:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-12-22 17:35:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-12-22 17:35:40 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_nether": "2025-12-22 17:37:34 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_nether_brick": "2025-12-22 17:49:48 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_nether_wasteland": "2025-12-22 22:06:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-12-22 22:29:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-12-26 16:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-12-26 16:39:08 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-12-26 16:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-12-26 16:39:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_foundry": {
+    "criteria": {
+      "location0": "2025-12-26 16:57:41 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
